@@ -212,6 +212,7 @@ h1 {
 }
 
 .section {
+  scroll-margin-top: 90px;
   padding: 3rem 1rem;
   background: #92a954;
 }
